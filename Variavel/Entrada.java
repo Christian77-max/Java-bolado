@@ -1,3 +1,4 @@
+package Variavel;
 import java.util.Scanner;
 
 public class Entrada {

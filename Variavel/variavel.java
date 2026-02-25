@@ -1,3 +1,4 @@
+package Variavel;
 public class variavel {
     public static void main(String[] args) {
         String nome = "Anderson";

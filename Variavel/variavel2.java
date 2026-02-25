@@ -1,3 +1,4 @@
+package Variavel;
 import java.util.Locale;
 
 public class variavel2{
