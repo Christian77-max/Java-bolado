@@ -1,3 +1,4 @@
+package vetores;
 import java.util.Scanner;
 
 public class vet06 {
